@@ -57,3 +57,9 @@ root.right.left = new TreeNode(6);
 root.right.left.left = new TreeNode(7);
 
 console.log(zigzagLevelOrder(root));
+
+// var x = 1;
+// var y = 0;
+
+// [x, y] = [y, x]
+// console.log(x, y)
